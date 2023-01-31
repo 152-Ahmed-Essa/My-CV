@@ -89,10 +89,10 @@
 }
 
 hr {
-    border-style: none;
-    border-top: 10px #8997977a dotted;
-    width: 5%;
-    margin: 100px auto;
+  border-style: none;
+  border-top: 10px #8997977a dotted;
+  width: 5%;
+  margin: 100px auto;
 }
 
 .footer-link {
