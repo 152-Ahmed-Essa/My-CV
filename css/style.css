@@ -92,7 +92,7 @@ hr {
   border-top: 10px #8997977a dotted;
   width: 5%;
   margin: 100px auto;
-  background: none;
+  border-style: none;
 }
 
 .footer-link {
